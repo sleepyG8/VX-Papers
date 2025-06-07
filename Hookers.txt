@@ -1,5 +1,5 @@
          ************************************************************
-                                   Sleepy
+                                 Sleepy - 2025
                         Avoiding EDR by Bypassing Hooks                
          ************************************************************
 
@@ -143,6 +143,8 @@ int main() {
 Final Thoughts:
 This concludes my zine on Avoiding EDR by Bypassing Hooks. If you liked this, there is much
 more to come. Thx for reading and shout out to all the old VX guys from the past ;)
+
+The original copy of this lives on coinzh.in/Hookers.txt
 
 [EOF]
 
